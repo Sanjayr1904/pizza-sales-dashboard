@@ -48,7 +48,7 @@ Businesses need to understand which products drive the most revenue, when peak s
 
 ## 📷 Dashboard Preview
 
-![Pizza Sales Dashboard](dashboard.png)
+![Pizza Sales Dashboard](Home.jpg)
 
 ---
 
