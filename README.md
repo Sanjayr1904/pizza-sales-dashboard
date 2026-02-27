@@ -47,11 +47,11 @@ Businesses need to understand which products drive the most revenue, when peak s
 ---
 
 ## 📷 Dashboard Preview
-### 🏠 Home Dashboard – Overall Sales Overview
+### **🏠 Home Dashboard – Overall Sales Overview**
 This page shows key KPIs such as total revenue, total orders, average order value, and overall sales trends.
 ![Pizza Sales Dashboard](Home.jpg)
 
-### 📉 Best & Worst Sellers Dashboard – Product Performance Analysis
+### **📉 Best & Worst Sellers Dashboard – Product Performance Analysis**
 This page highlights top-performing and low-performing pizzas based on revenue and quantity sold.
 
 ![Pizza Sales Dashboard](Best_worst_Sales.jpg)
