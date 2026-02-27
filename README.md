@@ -56,7 +56,7 @@ Businesses need to understand which products drive the most revenue, when peak s
 
 * 📥 [Download Power BI Dashboard](https://github.com/Sanjayr1904/pizza-sales-dashboard/raw/main/Pizza%20project.pbix)
 * 📥 [Download Dataset](https://github.com/Sanjayr1904/pizza-sales-dashboard/raw/main/Data.csv)
-* 📥 [Download SQL Queries](https://github.com/Sanjayr1904/pizza-sales-dashboard/raw/main/SQL_queries.sql)
+* 📥 [Download SQL Queries](https://github.com/Sanjayr1904/pizza-sales-dashboard/raw/main/SQl%20Queries.sql)
 
 ---
 
